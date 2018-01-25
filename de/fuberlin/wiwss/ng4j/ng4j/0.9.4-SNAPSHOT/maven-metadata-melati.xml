@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>de.fuberlin.wiwss.ng4j</groupId>
+  <artifactId>ng4j</artifactId>
+  <version>0.9.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20121116.115628</timestamp>
+      <buildNumber>21</buildNumber>
+    </snapshot>
+    <lastUpdated>20121116115628</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.9.4-20121116.115628-21</value>
+        <updated>20121116115628</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.9.4-20121116.115628-21</value>
+        <updated>20121116115628</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>0.9.4-20121116.115628-21</value>
+        <updated>20121116115628</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.9.4-20121116.115628-21</value>
+        <updated>20121116115628</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
